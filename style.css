@@ -1,0 +1,13 @@
+.displayDate{
+    font-size: 55px;
+}
+div{
+    
+    text-align: center;
+    padding: 50px;
+    background-color: #df01f3;
+    width: 50%;
+    margin: 0 auto;
+    color: #fff;
+    text-shadow: 0 0 8px #000;
+}
